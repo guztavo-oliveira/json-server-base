@@ -6,6 +6,11 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "gustavo@kenzie.com",
+      "password": "$2a$10$wy7VGYhFqxgRSh.o4jboie0gLIuCECh83a596./eSQfLX3wXE50xa",
+      "id": 2
     }
   ]
 }
