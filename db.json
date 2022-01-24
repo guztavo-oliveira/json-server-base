@@ -34,7 +34,7 @@
       "category": "Sanduíches",
       "price": 16,
       "img": "https://i.ibb.co/djbw6LV/x-burgue.png",
-      "qtd": 81
+      "qtd": 78
     },
     {
       "id": 3,
@@ -50,7 +50,7 @@
       "category": "Bebidas",
       "price": 5,
       "img": "https://i.ibb.co/cCjqmPM/fanta-guarana.png",
-      "qtd": 99
+      "qtd": 98
     },
     {
       "id": 5,
